@@ -1,8 +1,6 @@
 # 🎮 number guessing game
 
-a python script for a number guessing game. you have to guess a secret number between 1 and 100. the game tells you if your guess is too high, too low, or correct. you have 7 attempts.
-
----
+this  is a python script for a number guessing game. you have to guess a secret number between 1 and 100. the game tells you if your guess is too high, too low, or correct. you have 7 attempts.
 
 ## 🧠 what i learned
 
@@ -15,8 +13,6 @@ building this game helped me practice:
 - 🌈 visual design — using colors and fonts for a cohesive look.  
 - 🤗 user experience (ux) — providing clear feedback, disabling buttons when the game ends, and offering a restart option.  
 
----
-
 ## ✨ features
 
 - 🖥️ full‑screen mode with escape key to exit.  
@@ -25,8 +21,6 @@ building this game helped me practice:
 - 💬 real‑time feedback with color‑coded messages.  
 - 🔢 attempts counter that updates after each guess.  
 - 🔄 one‑click restart via the restart button at any time.  
-
----
 
 ## 🕹️ how to play
 
@@ -42,15 +36,11 @@ building this game helped me practice:
 6. 📉 the attempts left counter updates after every guess.  
 7. 🔁 click restart to start a new game at any time.  
 
----
-
 ## ⚠️ known issues
 
 - 🏃 the game does not prevent multiple guesses if the user spams the submit button very quickly.  
 - ❓ unusual characters might cause minor display quirks.  
 - 🌍 the full‑screen setup may behave slightly differently across operating systems.  
-
----
 
 ## 🚀 try it yourself
 
@@ -60,3 +50,5 @@ building this game helped me practice:
 4. ▶️ run the script:  
    ```bash
    python cosmic_guess.py
+   <img width="1874" height="1042" alt="image" src="https://github.com/user-attachments/assets/9ea21f7f-74e1-466a-9279-aeb9d3be2c95" />
+
