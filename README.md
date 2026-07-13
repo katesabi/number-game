@@ -50,5 +50,6 @@ building this game helped me practice:
 4. ▶️ run the script:  
    ```bash
    python cosmic_guess.py
-   <img width="1874" height="1042" alt="image" src="https://github.com/user-attachments/assets/9ea21f7f-74e1-466a-9279-aeb9d3be2c95" />
+
+    <img width="1874" height="1042" alt="image" src="https://github.com/user-attachments/assets/9ea21f7f-74e1-466a-9279-aeb9d3be2c95" />
 
