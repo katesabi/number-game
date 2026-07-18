@@ -4,7 +4,7 @@ this  is a python script for a number guessing game. you have to guess a secret 
 
 ## 🧠 what i learned
 
-building this game helped me practice:  
+building this game helped me practice: 
 - 👷 object‑oriented programming (oop) — structuring the game as a class with methods for initialization, ui creation, game logic, and event handling.  
 - 🎨 tkinter gui development — creating an application with labels, buttons, entry fields, and dynamic feedback.  
 - ⚡ event handling — binding keyboard events and button clicks to game functions.  
