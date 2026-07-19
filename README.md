@@ -1,6 +1,6 @@
 # 🎮 number guessing game
 
-this  is a python script for a number guessing game. you have to guess a secret number between 1 and 100. the game tells you if your guess is too high, too low, or correct. you have 7 attempts.
+this is a python script for a number guessing game. you have to guess a secret number between 1 and 100. the game tells you if your guess is too high, too low, or correct. you have 7 attempts.
 
 ## 🧠 what i learned
 
