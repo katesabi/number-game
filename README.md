@@ -1,4 +1,4 @@
-# readme — cosmic guess game
+cosmic guess game
 
 this project is a number-guessing game with a cosmic-themed ui built using python and tkinter. the goal is to create a visually engaging, full-screen experience where players guess a secret number within a limited number of attempts.
 
