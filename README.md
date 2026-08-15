@@ -37,7 +37,6 @@ here’s a preview of the full-screen layout:
 
 ## notes
 - the secret number is randomly generated between 1 and 100 each round.    
-- colors and fonts are chosen to match a sci‑fi/cosmic vibe while keeping text readable.  
 - the ui is designed for larger screens but remains functional on smaller displays.  
 - the game does not prevent multiple guesses if the user spams the submit button very quickly.  
 - unusual characters might cause minor display quirks.  
