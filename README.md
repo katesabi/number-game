@@ -1,57 +1,49 @@
-# 🎮 number guessing game
+# readme — cosmic guess game
 
-this is a python script for a number guessing game. you have to guess a secret number between 1 and 100. the game tells you if your guess is too high, too low, or correct. you have 7 attempts.
+this project is a number-guessing game with a cosmic-themed ui built using python and tkinter. the goal is to create a visually engaging, full-screen experience where players guess a secret number within a limited number of attempts.
 
-## 🧠 what i learned
+## key features
+- ✅ full-screen mode — automatically fits the user’s screen with escape-to-exit support.  
+- ✅ vibrant cosmic color palette — dark space background with glowing cyan, magenta, and neon accents.  
+- ✅ clear feedback system — color-coded messages for low/high/correct guesses and game-over scenarios.  
+- ✅ intuitive controls — submit via button or enter key, restart with a dedicated mission button.  
+- ✅ attempt tracking — real-time display of remaining attempts with visual emphasis.  
 
-building this game helped me practice: 
-- 👷 object‑oriented programming (oop) — structuring the game as a class with methods for initialization, ui creation, game logic, and event handling.  
-- 🎨 tkinter gui development — creating an application with labels, buttons, entry fields, and dynamic feedback.  
-- ⚡ event handling — binding keyboard events and button clicks to game functions.  
-- ✅ input validation — checking user input for empty strings, non‑numeric values, and out‑of‑range numbers.  
-- 📊 game state management — tracking attempts left, the secret number, and whether the game is active.  
-- 🌈 visual design — using colors and fonts for a cohesive look.  
-- 🤗 user experience (ux) — providing clear feedback, disabling buttons when the game ends, and offering a restart option.  
+## what this project practices
+- building desktop gui apps with tkinter.  
+- organizing ui elements using frames and pack layout.  
+- managing game state and user input validation.  
+- updating ui dynamically based on game logic.  
+- handling keyboard events and window protocols cleanly.  
 
-## ✨ features
+## how to run
+1. ensure you have python installed (3.x recommended).  
+2. save the code as `cosmic_guess.py`.  
+3. run it from terminal: `python cosmic_guess.py`.  
+4. the game will launch in full-screen mode automatically.  
 
-- 🖥️ full‑screen mode with escape key to exit.  
-- 💫 clean ui with custom colors and fonts.  
-- ⌨️ input field that accepts guesses via enter key or the submit button.  
-- 💬 real‑time feedback with color‑coded messages.  
-- 🔢 attempts counter that updates after each guess.  
-- 🔄 one‑click restart via the restart button at any time.  
+## how to play
+1. see the secret goal: guess the number between 1 and 100.  
+2. type your guess in the input field (or press enter to submit).  
+3. read the feedback: “too low” means pick a higher number, “too high” means go lower.  
+4. keep guessing until you find the right number or run out of 7 attempts.  
+5. when the round ends, click “restart mission” to begin a new game.  
+6. press escape at any time to close the game.  
 
-## 🕹️ how to play
-
-1. ▶️ run the `cosmic_guess.py` script in python.  
-2. 🖼️ the game starts in full‑screen mode.  
-3. 📖 read the instructions: guess a number between 1 and 100. you have 7 attempts.  
-4. ✍️ type your guess in the input field and press enter or click the submit button.  
-5. 🗣️ the game tells you:  
-   - ⬇️ too low! if your guess is smaller than the secret number.  
-   - ⬆️ too high! if your guess is larger than the secret number.  
-   - 🎉 you guessed it! if you win.  
-   - 😢 game over! the number was x. if you run out of attempts.  
-6. 📉 the attempts left counter updates after every guess.  
-7. 🔁 click restart to start a new game at any time.  
-
-## ⚠️ known issues
-
-- 🏃 the game does not prevent multiple guesses if the user spams the submit button very quickly.  
-- ❓ unusual characters might cause minor display quirks.  
-- 🌍 the full‑screen setup may behave slightly differently across operating systems.  
-
-## 🚀 try it yourself
-
-1. ⬇️ download the `cosmic_guess.py` file.  
-2. 🐍 make sure you have python installed (3.6 or higher recommended).  
-3. 💻 open a terminal or command prompt and navigate to the folder containing the script.  
-4. ▶️ run the script:  
-   ```bash
-   python cosmic_guess.py
-
+## long screenshot
+here’s a preview of the full-screen layout:  
 <img width="1874" height="1042" alt="image" src="https://github.com/user-attachments/assets/9f04b7a6-3b59-4dd1-8410-957914e33a01" />
+
+
+## notes
+- the secret number is randomly generated between 1 and 100 each round.    
+- colors and fonts are chosen to match a sci‑fi/cosmic vibe while keeping text readable.  
+- the ui is designed for larger screens but remains functional on smaller displays.  
+- the game does not prevent multiple guesses if the user spams the submit button very quickly.  
+- unusual characters might cause minor display quirks.  
+- the full‑screen setup may behave slightly differently across operating systems.  
+
+
 
 
 
